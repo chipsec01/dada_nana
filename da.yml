@@ -42,7 +42,7 @@ http_interactions:
       X-Frame-Options:
       - DENY
       X-Token:
-      - "xoxb-2406833491235-2455832759024-KgG7gCPNgzRqa3NRzFRjuJM6"
+      - "sk_test_51JTmTbLypnGwW674WNdgRIugPb2XYTDsP0x1bfsD8Nk2DqmFwvJYDTXgKrobHghNCL4KzQMbnN9VBY311ZcmUcBO00KiMwDbE7"
       Content-Length:
       - '294541'
       Connection:
